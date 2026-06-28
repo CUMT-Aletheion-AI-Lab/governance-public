@@ -1,6 +1,6 @@
-# CUMT Aletheion AI Lab Public Governance
+# CUMT Alethic Insight Lab Public Governance
 
-This repository contains public governance documents for CUMT Aletheion AI Lab.
+This repository contains public governance documents for CUMT Alethic Insight Lab.
 
 It is intended for members, applicants, collaborators, and future student maintainers who need a clear view of how the community works.
 

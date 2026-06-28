@@ -1,6 +1,6 @@
-# CUMT Aletheion AI Lab 公开治理文档
+# CUMT Alethic Insight Lab 公开治理文档
 
-本仓库用于存放 CUMT Aletheion AI Lab 的公开治理文档。
+本仓库用于存放 CUMT Alethic Insight Lab 的公开治理文档。
 
 它面向成员、申请者、合作者和未来学生维护者，目标是清楚说明这个共同体如何运作。
 

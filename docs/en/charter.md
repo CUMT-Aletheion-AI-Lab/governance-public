@@ -1,6 +1,6 @@
 # Charter
 
-CUMT Aletheion AI Lab is a student-led AI society-lab and research-engineering community at China University of Mining and Technology.
+CUMT Alethic Insight Lab is a student-led AI society-lab and research-engineering community at China University of Mining and Technology.
 
 It serves three roles:
 
